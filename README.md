@@ -29,7 +29,7 @@ Chatbot conectado a **WhatsApp y OpenAI**, con backend en **Node.js y Express**,
 ## 🎓 Certificaciones
 
 ### Diploma de Desarrollo Web
-[![Ver Diploma](https://github.com/francosantillan12/certificados/blob/main/diploma-miniatura.png?raw=true)](https://github.com/francosantillan12/certificados/blob/main/diploma%20desarrollo%20web.png?raw=true)
+[![Ver Diploma](https://github.com/francosantillan12/certificados/blob/main/diploma-miniatura.png?raw=true)](https://github.com/francosantillan12/certificados/blob/main/diploma-desarrollo-web.png?raw=true)
 
 > Otorgado por CODERHOUSE – 11 de Junio del 2025
 
