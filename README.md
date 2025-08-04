@@ -33,6 +33,9 @@ Chatbot conectado a **WhatsApp y OpenAI**, con backend en **Node.js y Express**,
 
 > Otorgado por CODERHOUSE – 11 de Junio del 2025
 
+### Diploma de JavaScript
+[![Ver Diploma](https://github.com/francosantillan12/certificados/blob/main/diploma-javascript-miniatura.png?raw=true)](https://github.com/francosantillan12/certificados/blob/main/diploma-javascript.png?raw=true)  
+> Otorgado por CODERHOUSE – 1 de Agosto del 2025  
 
 
 ## 🌱 En lo que estoy trabajando  
